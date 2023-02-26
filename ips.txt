@@ -1,0 +1,24 @@
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Linux
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+IP                   : 49.43.96.155
+IP Type              : IPv4
+User OS              : Android
+Version              : 10
+Browser              : Handheld Browser
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
